@@ -6,7 +6,7 @@ And I'm fighting to write this myself. I really but **REALLY** want to send it t
 
 I know this is my identity card as a developer and I also know you'll notice if my readme is  AI slop like millions of others.
 
-And it's not that I hate AI, but ...**FUCK IT !** Some things are meant to be created by humans. And, as a novice write, I can't let some mathematicak combinations write my own presentation. My ego would be gone with that. 
+And it's not that I hate AI, but ...**FUCK IT !** Some things are meant to be created by humans. And, as a novice writer, I can't let some mathematical combinations write my own presentation. My ego would be gone with that. 
 
 And honestly, I'm having fun writing this readme. More than I thought. Even if my English may not be perfect. 
 
