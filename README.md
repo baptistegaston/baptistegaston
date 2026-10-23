@@ -57,7 +57,7 @@ And I have the idea to list all the places where I like to go when I want to be 
 
 Besides coding, I like a lot of things. 
 
-As I've said, I'm a write but I'm also a reader. Few blogs like *The Growth Equation*, *Freedom* or Cal Newport's one but also some fantasy and personal developement books. 
+As I've said, I'm a writer but I'm also a reader. Few blogs like *The Growth Equation*, *Freedom* or Cal Newport's one but also some fantasy and personal developement books. 
 
 I'm in love with music. A big fan of NF, the lyrics hit hard. 
 
