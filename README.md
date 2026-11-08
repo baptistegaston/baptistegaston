@@ -23,9 +23,9 @@ I've learned about myself and what kind of product I want to create.
 
 After this year, I chose to continue with a work-study program but this time in a bigger company : **Exail Robotics**. 
 
-At Exail, I work on a *very*, *very*, but ***VERY*** secret program ! 
+At Exail, I work on a *very*, *very*, but ***VERY*** secret project ! 
 
-[THE VERY SECRET program](https://www.exail.com/product/a6k-ultra-deep-autonomous-underwater-vehicles)
+[THE VERY SECRET project](https://www.exail.com/product/a6k-ultra-deep-autonomous-underwater-vehicles)
 
 I develop the web-app used to plan and visualise the missions of the AUV. 
 
